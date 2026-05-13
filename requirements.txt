@@ -1,4 +1,0 @@
-yt-dlp
-requests
-flask
-instaloader
